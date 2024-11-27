@@ -32,6 +32,7 @@ Sistem terdiri dari 4 unit server:
 
 #### **2. Topologi Sistem**  
 Berikut adalah diagram topologi sederhana sistem yang kami tawarkan:  
+![load-balancing-moodle](https://github.com/user-attachments/assets/43a8dd5f-c69a-482e-a6e6-aa12ab7cf0b5)
 
 ---
 
